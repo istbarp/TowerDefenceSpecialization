@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1cce4adf02704c949b1fca77a50a2b1f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ThisTower: {fileID: 100006, guid: 9465341bac0513f4d8ed3f5342ee7ce3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
